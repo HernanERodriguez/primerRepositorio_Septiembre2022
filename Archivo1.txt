@@ -1,6 +1,13 @@
+Agregado y modificaciones
+de la 
+TareaA
+
 Primer linea
 Segunda linea
 
+Cambios y modificaciones
+de la 
+TareaB
 
 Linea Final
 Agregado en el remoto
